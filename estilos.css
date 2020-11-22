@@ -22,3 +22,10 @@ body
 {
     font-size: 20px;
 }
+
+#container titulo
+{
+    font-size: 20pc;
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
